@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Building the Future</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Building the Future</h1>
+        <p>Investing in the youth to create a successful future.</p>
+    </header>
+    <main>
+        <section class="mission">
+            <h2>Our Mission</h2>
+            <p>Our mission is to help young people discover their value and provide them with the skills they need to succeed in life. We offer training in digital skills, tech skills, financial literacy, and more.</p>
+        </section>
+        <section class="engagements">
+            <h2>Organic Engagements</h2>
+            <p>We create organic engagements through our programs and initiatives, encouraging young people to take charge of their future and make meaningful contributions to their communities.</p>
+        </section>
+        <section class="call-to-action">
+            <h2>Please Donate Now</h2>
+            <p>Your donation will help us continue to support and empower the next generation. Together, we can make a difference.</p>
+            <button onclick="window.location.href='donate.html'">Donate Now</button>
+        </section>
+        <section class="gallery">
+            <h2>Gallery</h2>
+            <div class="images">
+                <img src="helping.jpg" alt="Helping one another">
+                <img src="handshake.jpg" alt="Handshake">
+                <img src="logo.jpg" alt="Logo">
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Building the Future. All rights reserved.</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
